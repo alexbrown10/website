@@ -9,7 +9,7 @@ weight: 30
 
 <!-- overview -->
 
-This tutorial provides a real-world example of how to configure a ConfigMap using a Redis cache. 
+This tutorial will walk you through how to configure a Kubernetes ConfigMap using a Redis cache. 
 
 {{% alert title="What is Redis?" color="info" %}}
 
